@@ -1,4 +1,8 @@
-past this in your `config.nu`:
+# nu-minimal-prompt
+
+minimal prompt for [Nushell](https://nushell.sh)
+
+paste this in your `config.nu`:
 
 ```nushell
 $env.PROMPT_COMMAND = { ||
